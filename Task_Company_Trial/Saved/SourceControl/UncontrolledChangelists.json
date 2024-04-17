@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/AIV/Tasks/LD/Task_Company_Trial/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"D:/AIV/Tasks/LD/Task_Company_Trial/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"D:/AIV/Tasks/LD/Task_Company_Trial/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/AIV/Tasks/LD/Task_Company_Trial/Content/PLATFORMER_StylizedCubeWorld_Vol1/Maps/Map_01.umap",
+				"D:/AIV/Tasks/LD/Task_Company_Trial/Content/Blueprints/BP_Devvy.uasset",
+				"D:/AIV/Tasks/LD/Task_Company_Trial/Content/MyContent/Francesco/Gym.umap",
+				"D:/AIV/Tasks/LD/Task_Company_Trial/Content/PLATFORMER_StylizedCubeWorld_Vol1/Maps/Map_04.umap",
+				"D:/AIV/Tasks/LD/Task_Company_Trial/Content/PLATFORMER_StylizedCubeWorld_Vol1/Maps/Map_05.umap",
+				"D:/AIV/Tasks/LD/Task_Company_Trial/Content/PLATFORMER_StylizedCubeWorld_Vol1/Maps/Map_03.umap"
+			]
+		}
+	]
+}
