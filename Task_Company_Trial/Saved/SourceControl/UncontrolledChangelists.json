@@ -1,0 +1,39 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/AIV/Tasks/LD/AssezioPuro_2.0/Task_Company_Trial/Content/MyContent/Francesco/Gym.umap",
+				"D:/AIV/Tasks/LD/AssezioPuro_2.0/Task_Company_Trial/Content/PLATFORMER_StylizedCubeWorld_Vol1/Maps/OverviewMap.umap",
+				"D:/AIV/Tasks/LD/AssezioPuro_2.0/Task_Company_Trial/Content/MyContent/Meshes/M_Spaceship.uasset",
+				"D:/AIV/Tasks/LD/AssezioPuro_2.0/Task_Company_Trial/Content/MyContent/Spaceship/M_Spaceship.uasset",
+				"D:/AIV/Tasks/LD/AssezioPuro_2.0/Task_Company_Trial/Content/MyContent/Spaceship/spaceship_DefaultMaterial_Roughness.uasset",
+				"D:/AIV/Tasks/LD/AssezioPuro_2.0/Task_Company_Trial/Content/MyContent/Spaceship/spaceship_DefaultMaterial_Normal.uasset",
+				"D:/AIV/Tasks/LD/AssezioPuro_2.0/Task_Company_Trial/Content/MyContent/Spaceship/spaceship_DefaultMaterial_Metallic.uasset",
+				"D:/AIV/Tasks/LD/AssezioPuro_2.0/Task_Company_Trial/Content/MyContent/Spaceship/spaceship_DefaultMaterial_Height.uasset",
+				"D:/AIV/Tasks/LD/AssezioPuro_2.0/Task_Company_Trial/Content/MyContent/Spaceship/spaceship_DefaultMaterial_Emissive.uasset",
+				"D:/AIV/Tasks/LD/AssezioPuro_2.0/Task_Company_Trial/Content/MyContent/Spaceship/spaceship_DefaultMaterial_BaseColor.uasset",
+				"D:/AIV/Tasks/LD/AssezioPuro_2.0/Task_Company_Trial/Content/MyContent/Spaceship/substancee_file_-_spaceship_1st.uasset",
+				"D:/AIV/Tasks/LD/AssezioPuro_2.0/Task_Company_Trial/Content/MyContent/Spaceship/Texture/M_Spaceship.uasset",
+				"D:/AIV/Tasks/LD/AssezioPuro_2.0/Task_Company_Trial/Content/MyContent/Spaceship/Texture/spaceship_DefaultMaterial_BaseColor.uasset",
+				"D:/AIV/Tasks/LD/AssezioPuro_2.0/Task_Company_Trial/Content/MyContent/Spaceship/Texture/spaceship_DefaultMaterial_Emissive.uasset",
+				"D:/AIV/Tasks/LD/AssezioPuro_2.0/Task_Company_Trial/Content/MyContent/Spaceship/Texture/spaceship_DefaultMaterial_Height.uasset",
+				"D:/AIV/Tasks/LD/AssezioPuro_2.0/Task_Company_Trial/Content/MyContent/Spaceship/Texture/spaceship_DefaultMaterial_Metallic.uasset",
+				"D:/AIV/Tasks/LD/AssezioPuro_2.0/Task_Company_Trial/Content/MyContent/Spaceship/Texture/spaceship_DefaultMaterial_Normal.uasset",
+				"D:/AIV/Tasks/LD/AssezioPuro_2.0/Task_Company_Trial/Content/MyContent/Spaceship/Texture/spaceship_DefaultMaterial_Roughness.uasset",
+				"D:/AIV/Tasks/LD/AssezioPuro_2.0/Task_Company_Trial/Content/PLATFORMER_StylizedCubeWorld_Vol1/Materials/Color_01/MI_RedGrass.uasset",
+				"D:/AIV/Tasks/LD/Task_Company_Trial/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"D:/AIV/Tasks/LD/Task_Company_Trial/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"D:/AIV/Tasks/LD/Task_Company_Trial/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/AIV/Tasks/LD/Task_Company_Trial/Content/PLATFORMER_StylizedCubeWorld_Vol1/Maps/Map_01.umap",
+				"D:/AIV/Tasks/LD/Task_Company_Trial/Content/Blueprints/BP_Devvy.uasset",
+				"D:/AIV/Tasks/LD/Task_Company_Trial/Content/MyContent/Francesco/Gym.umap",
+				"D:/AIV/Tasks/LD/Task_Company_Trial/Content/PLATFORMER_StylizedCubeWorld_Vol1/Maps/Map_04.umap",
+				"D:/AIV/Tasks/LD/Task_Company_Trial/Content/PLATFORMER_StylizedCubeWorld_Vol1/Maps/Map_05.umap",
+				"D:/AIV/Tasks/LD/Task_Company_Trial/Content/PLATFORMER_StylizedCubeWorld_Vol1/Maps/Map_03.umap"
+			]
+		}
+	]
+}
